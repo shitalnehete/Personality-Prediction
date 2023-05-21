@@ -15,6 +15,7 @@ In this section, user undergoes 50 questions regarding the O.C.E.A.N model, 10 q
 3.	**Facebook:**
 For comparing the personality among the Facebook network or any other social media site network this tab is helpful. Comparison between user’s personality score evaluated from the Questionnaire section and the same models trained for text prediction are used here for evaluation of the scores of the Big-Five personality traits. The comparison is shown in the radar graph too on the user interface.
 
+Registered project for [copyright](https://copyright.gov.in/) with diary number **16783/2021-CO/SW**
 
 ## Packages to be installed to run the project:
 *	Selenium: `conda install -c conda-forge selenium`
