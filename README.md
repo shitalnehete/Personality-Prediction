@@ -1,15 +1,17 @@
 # Personality-Prediction
-Packages to be installed to run the project:
-•	Selenium: conda install -c conda-forge selenium
-•	Scikit-learn: conda install -c anaconda scikit-learn
-•	Chrome driver: https://chromedriver.chromium.org/downloads (download driver compatible to your chrome and save it on the location of fb_webscrapper.ipynb)
-•	MongoDb: https://www.mongodb.com/try/download/community (download 4.4.6 zip file, unzip it and install)
-•	Node.js: https://nodejs.org/en/ (download 14.17.0 LTS and install)
-•	Flask: conda install -c anaconda flask
-•	Flask-cors: conda install -c anaconda flask-cors
 
 
-Codes:
+## Packages to be installed to run the project:
+1.	Selenium: `conda install -c conda-forge selenium`
+2.	Scikit-learn: `conda install -c anaconda scikit-learn`
+3.	Chrome driver: (https://chromedriver.chromium.org/downloads) (download driver compatible to your chrome and save it on the location of fb_webscrapper.ipynb)
+4.	MongoDb: (https://www.mongodb.com/try/download/community) (download 4.4.6 zip file, unzip it and install)
+5.	Node.js: (https://nodejs.org/en/) (download 14.17.0 LTS and install)
+6.	Flask: `conda install -c anaconda flask`
+7.	Flask-cors: `conda install -c anaconda flask-cors`
+
+
+## Steps:
 1.	Execute model.ipynb
 2.	Save the login credentials on the Facebook to access in the file fb_login_creds.yaml.
 3.	Execute fb_webscrapper.ipynb
